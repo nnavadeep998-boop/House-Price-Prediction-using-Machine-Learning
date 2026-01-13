@@ -1,12 +1,15 @@
 # House-Price-Prediction-using-Machine-Learning
 This project predicts house prices based on features such as area, number of bedrooms, bathrooms, and location. A Linear Regression model is trained on housing data to estimate the price of a house. The project demonstrates basic data preprocessing, model training, and evaluation.
-Libraries Used:
-Library	Purpose
-numpy 	Numerical operations
-pandas	Data handling
-sklearn.model_selection	Train-test split
-sklearn.linear_model	Linear Regression model
-sklearn.metrics	Model evaluation
+
+
+| Library                 | Purpose              |
+| ----------------------- | -------------------- |
+| `numpy`                 | Numerical operations |
+| `pandas`                | Data handling        |
+| `matplotlib`            | Data visualization   |
+| `sklearn.cluster`       | K-Means clustering   |
+| `sklearn.preprocessing` | Feature scaling      |
+
 
 Algorithm Used
 Linear Regression
